@@ -1,0 +1,42 @@
+h1{ color:white; font-size:30px;
+ background-image:url('back.jpg');
+ background-position:center center;
+ padding:28px; text-decoration:underline;
+  text-align:center; border-radius: 15px}
+
+
+h2,h3,h4 { background-color:#ffb6c1; color:white;
+font-family: verdana, sans-serif;
+word-spacing: 0.8em;
+
+ }
+
+ 
+
+ .list {  background-image:url('back.jpg');
+
+ ; line-height: 1.4em;}
+
+
+.footer{ background-color:#555555;  color: white; text-align: center 
+}
+
+a {color:#023020; font-weight: 20px}
+
+
+table, th, td { border:1px solid; text-align: center;
+  background-image:url('back.jpg');
+ ; font-family:verdana, sans-serif ;}
+
+
+table {width:70%;}
+
+
+
+
+
+
+
+
+
+	
