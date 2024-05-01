@@ -32,6 +32,11 @@ table, th, td { border:1px solid; text-align: center;
 table {width:70%;}
 
 
+@media (max-width: 768px) {
+	{float:none; text-align: center; 
+		width:100%;
+}
+
 
 
 
