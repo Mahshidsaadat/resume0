@@ -11,7 +11,7 @@ word-spacing: 0.8em;
 
  }
 
- 
+
 
  .list {  background-image:url('back.jpg');
 
@@ -26,16 +26,19 @@ a {color:#023020; font-weight: 20px}
 
 table, th, td { border:1px solid; text-align: center;
   background-image:url('back.jpg');
- ; font-family:verdana, sans-serif ;}
+ ; font-family:verdana, sans-serif ; font-size: 15px}
 
 
-table {width:70%;}
+table {width:80%; margin-right: auto; margin-left: auto}
 
 
-@media (max-width: 768px) {
-	{float:none; text-align: center; 
-		width:100%; font-size: 25px;
+img { display:block; max-width:60%; }
+
+.container {
+	width:90%; margin:auto;
 }
+
+
 
 
 
